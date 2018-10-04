@@ -1,6 +1,9 @@
 # Raphaël:/Analytics
 
-I use these scripts (Raphaël.js + analytics.js + popup.js) to display statistics about class attendance at a Romanian college.
+I use these scripts (Raphaël.js, version 2.2.1 + analytics.js + popup.js) to display statistics about class attendance at a Romanian college.
+
+The original Raphaël.js: http://dmitrybaranovskiy.github.io/raphael/.
+
 They work as follows:
 
 **First step** - Place the data inside the HTML code of the page:
