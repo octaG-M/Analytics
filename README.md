@@ -56,7 +56,7 @@ They work as follows:
 
 And the third class, and the fourth one, and so on...
 
-**Second step** Some styling for these divs in the CSS code of the page
+**Second step** - Some styling for these divs in the CSS code of the page should be inserted
 (otherwise, a part of the Raphael magic won't show up):
 
 ```css
@@ -77,10 +77,10 @@ And the third class, and the fourth one, and so on...
 }
 ```
 
-**Third step** - Insert information about names and dates and colors inside  *analytics.js*:
+**Third step** - Insert the relevant information about names and dates and colors inside  *analytics.js*:
 
 ```js
 var cursurile_mele = ["NAME-OF-THE-FIRST-CLASS", "NAME-OF-THE-SECOND-CLASS"],
-    culorile_mele = ["#8A0808", "#08298A"],  //colors of the table background
+    culorile_mele = ["#8A0808", "#08298A"], //colors of the table background
     semestrele_mele = ["2018", "2019"]; //years for the two semesters
 ```
