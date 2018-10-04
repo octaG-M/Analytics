@@ -57,7 +57,7 @@ They work as follows:
 And the third class, and the fourth one, and so on...
 
 **Second step** - Some styling for these divs in the CSS code of the page should be inserted
-(otherwise, a part of the Raphael magic won't show up):
+(otherwise, a part of the Raphaël magic won't show up):
 
 ```css
 /**
